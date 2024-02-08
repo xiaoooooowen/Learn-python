@@ -1,4 +1,5 @@
 magics = ['alice','jack','malong']
 for magic in magics:
-    print(magic)
+    print(f"{magic.title()},you are very nb.")
+    
     
